@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on [FAtiMA-Toolkit](https://github.com/GAIPS-INESC-ID/FAtiMA-Toolkit)
 
-- 🌱 I’m currently **finishing my PhD Thesis**
+- 🌱 I’m tryng to **finish my PhD Thesis**
 
-- 👯 I’m collaborating on [Winds of Berkana](https://github.com/GameDevTecnico/Winds-Of-Berkana)
+- 🤝 I’m working with both Augmented and Virtual Reality [FAtiMA-AR-Demo](https://github.com/Rexrex/FAtiMA-AR-Demo) and [FAtiMA-VR-Demo](https://github.com/GAIPS-INESC-ID/FAtiMA-VR-Demo)
 
-- 🤝 I’m also working on Mixed Reality [FAtiMA-AR-Demo](https://github.com/Rexrex/FAtiMA-AR-Demo)
+- 👯 I love to make video games and participated in lots of game jams but I am currently a Lead Programmer on [Winds of Berkana](https://github.com/GameDevTecnico/Winds-Of-Berkana)
 
-- 👨‍💻 All of my GameDev projects are available at [https://thedarkryze.itch.io/](https://thedarkryze.itch.io/)
+- 👨‍💻 All of my GameDev projects are available at [Itch Profile](https://thedarkryze.itch.io/)
 
-- 📝 I publish articles in academic venues: [https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT)
+- 📝 I publish articles in academic venues: [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT)
 
 - 📫 Reach me through my email **manuel.m.guimares@tecnico.ulisboa.pt**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/manuel-guimar%C3%A3es-6a343310b/](https://www.linkedin.com/in/manuel-guimar%C3%A3es-6a343310b/)
+- 📄 Know about my experiences [My Official Website](http://manuelguimaraes.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
