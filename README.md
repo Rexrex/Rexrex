@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Manuel Guimarães</h1>
-<h3 align="center">A PhD Student, Game and Software Developer from Portugal</h3>
+<h3 align="center">I'm a Junior AI Engineer</h3>
 
-- 🔭 I’m currently working on [FAtiMA-Toolkit](https://github.com/GAIPS-INESC-ID/FAtiMA-Toolkit)
+- 🔭 Worked on [FAtiMA-Toolkit](https://github.com/GAIPS-INESC-ID/FAtiMA-Toolkit)
 
-- 🌱 I’m tryng to **finish my PhD Thesis**
+- 🌱 Waiting for my **PhD Defence**
 
-- 🤝 I’m working with both Augmented and Virtual Reality [FAtiMA-AR-Demo](https://github.com/Rexrex/FAtiMA-AR-Demo) and [FAtiMA-VR-Demo](https://github.com/GAIPS-INESC-ID/FAtiMA-VR-Demo)
+- 🤝 Worked with both Augmented and Virtual Reality [FAtiMA-AR-Demo](https://github.com/Rexrex/FAtiMA-AR-Demo) and [FAtiMA-VR-Demo](https://github.com/GAIPS-INESC-ID/FAtiMA-VR-Demo)
 
-- 👯 I love to make video games and participated in lots of game jams but I am currently a Lead Programmer on [Winds of Berkana](https://github.com/GameDevTecnico/Winds-Of-Berkana)
+- 👯 I love to make video games and participated in lots of game jams and [Winds of Berkana](https://github.com/GameDevTecnico/Winds-Of-Berkana)
 
 - 👨‍💻 All of my GameDev projects are available at [Itch Profile](https://thedarkryze.itch.io/)
 
 - 📝 I publish articles in academic venues: [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT)
 
 - 📫 Reach me through my email **manuel.m.guimares@tecnico.ulisboa.pt**
-
-- 📄 Know about my experiences [My Official Website](http://manuelguimaraes.net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
