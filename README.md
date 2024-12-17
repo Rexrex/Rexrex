@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manuel Guimarães</h1>
-<h3 align="center">I'm a Junior AI Engineer</h3>
+<h3 align="center">I'm an AI Engineer</h3>
+
+- Worked on [Mr Kite](https://mrkite.io/) on LLMs and Generative AI, the repos are private though.
 
 - 🔭 Worked on [FAtiMA-Toolkit](https://github.com/GAIPS-INESC-ID/FAtiMA-Toolkit)
-
-- 🌱 Waiting for my **PhD Defence**
 
 - 🤝 Worked with both Augmented and Virtual Reality [FAtiMA-AR-Demo](https://github.com/Rexrex/FAtiMA-AR-Demo) and [FAtiMA-VR-Demo](https://github.com/GAIPS-INESC-ID/FAtiMA-VR-Demo)
 
@@ -13,7 +13,7 @@
 
 - 📝 I publish articles in academic venues: [Google Scholar](https://scholar.google.pt/citations?user=DeaOyc4AAAAJ&hl=pt-PT)
 
-- 📫 Reach me through my email **manuel.m.guimares@tecnico.ulisboa.pt**
+- 📫 Reach me through my email **manuelguimaraes15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
